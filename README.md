@@ -45,3 +45,4 @@ It's sensible to remove the update file from your SD card to avoid accidentally 
 - [OM-1 Firmware 1.2](http://dl03.olympus-imaging.com/OLYMPUS_MASTER/FIRMWARES/0001/1430/OLY_E_143_1200_0000_0000.BIN)
 - [OM-1 Firmware 1.3](http://dl03.olympus-imaging.com/OLYMPUS_MASTER/FIRMWARES/0001/1430/OLY_E_143_1300_0000_0000.BIN)
 - [OM-1 Firmware 1.4](http://dl03.olympus-imaging.com/OLYMPUS_MASTER/FIRMWARES/0001/1430/OLY_E_143_1400_0000_0000.BIN)
+- [OM-1 Firmware 1.5](http://dl03.olympus-imaging.com/OLYMPUS_MASTER/FIRMWARES/0001/1430/OLY_E_143_1500_0000_0000.BIN)
