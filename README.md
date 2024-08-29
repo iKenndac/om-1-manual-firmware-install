@@ -57,10 +57,12 @@ It's sensible to remove the update file from your SD card to avoid accidentally 
 - [OM-1 Firmware 1.4](https://dl01.om-digitalsolutions.net/OMDS/FIRMWARES/0001/1430/OLY_E_143_1400_0000_0000.BIN)
 - [OM-1 Firmware 1.5](https://dl01.om-digitalsolutions.net/OMDS/FIRMWARES/0001/1430/OLY_E_143_1500_0000_0000.BIN)
 - [OM-1 Firmware 1.6](https://dl01.om-digitalsolutions.net/dslr/1430/v1600/OLY_E_143_1600_0000_0000.BIN)
+- [OM-1 Firmware 1.7](https://dl01.om-digitalsolutions.net/dslr/1430/v1700/OLY_E_143_1700_0000_0000.BIN)
 
 #### OM-1 Mark II
 
 - [OM-1 Mark II Firmware 1.1](https://dl01.om-digitalsolutions.net/dslr/1460/v1100/OLY_E_146_1100_0000_0000.BIN)
+- [OM-1 Mark II Firmware 1.2](https://dl01.om-digitalsolutions.net/dslr/1460/v1200/OLY_E_146_1200_0000_0000.BIN)
 
 #### OM-5
 
