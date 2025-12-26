@@ -1,6 +1,6 @@
-# Manually Installing an OM-1/OM-1 Mark II/OM-5 Firmware Update Via SD Card
+# Manually Installing an OM-1/OM-1 Mark II/OM-3/OM-5 Firmware Update Via SD Card
 
-This readme file describes the process of updating the firmware of an OM-SYSTEM OM-1, OM-1 Mark II, or OM-5 camera by downloading an update file from OM-Systems' update server and copying it to an SD card. This is an alternate mechanism to using the OM Workspace application or the mobile app for the camera.
+This readme file describes the process of updating the firmware of an OM-SYSTEM OM-1, OM-1 Mark II, OM-3, or OM-5 camera by downloading an update file from OM-Systems' update server and copying it to an SD card. This is an alternate mechanism to using the OM Workspace application or the mobile app for the camera.
 
 **Important:** While these instructions detail how to download the update file from OMS' own servers and arrange it such that the camera will install it, this is _not_ an officially-supported mechanism for end users to update the firmware of their cameras (as far as I'm aware, this is the procedure used by service centres use to install firmware). While I have had success with this method on my own camera, this is done **at your own risk**.
 
@@ -25,6 +25,7 @@ Rename the downloaded firmware file to the following, depending on your camera:
 
 - OM-1: `E1439999.BIN`
 - OM-1 Mark II: `E1469999.BIN`
+- OM-3: `E1479999.BIN`
 - OM-5: `E1449999.BIN`
 
 ### Installation
@@ -48,7 +49,7 @@ It's sensible to remove the update file from your SD card to avoid accidentally 
 
 ### Download Links
 
-**Note:** These links are directly to Olympus/OMS download servers. The update files aren't hosted in this repository.
+**Important:** In late 2025, a change was made to OMS' firmware hosting that means these links no longer work, and any form of static link will no longer work. I'm mulling over the implications of hosting the files publicly somewhere else, but for now you'll need to find an alternate source for these files.
 
 #### OM-1
 
